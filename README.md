@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-  <h1 align="left">Hola, 👋 soy desarrollador web front-end</h1>
+  <img src="https://media.giphy.com/media/11YMhfLfGoq5Gg/giphy.gif" />
+  <h1 align="center">Hola, 👋 <br /> soy desarrollador web front-end</h1>
 </div>
-<div align="left">
-  <h3>lenguajes y herramientas: </h3>
+<div align="center">
+  <h2 >lenguajes y herramientas: </h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="50"/>
