@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
-  <h1 align="center">Hola, 👋 soy desarrollador web front-end developer</h1>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+  <h1 align="left">Hola, 👋 soy desarrollador web front-end developer</h1>
 </div>
-<div align="center">
+<div align="left">
   <h3>lenguajes y herramientas: </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50"/>
@@ -20,3 +20,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50"/>
   <div>
 </div>
+
+---
+![miloa2002 GitHub stats](https://github-readme-stats.vercel.app/api?username=miloa2002&show_icons=true&theme=radical)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miloa2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
