@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-  <h1 align="left">Hola, 👋 soy desarrollador web front-end developer</h1>
+  <h1 align="left">Hola, 👋 soy desarrollador web front-end</h1>
 </div>
 <div align="left">
   <h3>lenguajes y herramientas: </h3>
