@@ -12,6 +12,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="illsutrator" width="50"/>
