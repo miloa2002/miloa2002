@@ -8,7 +8,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50"/>
-    <img src="[https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg)" alt="tailwind" width="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="50"/>
